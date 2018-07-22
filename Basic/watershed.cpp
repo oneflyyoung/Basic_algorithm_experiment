@@ -88,3 +88,4 @@ Vec3b RandomColor(int value)
 	int cc = rng.uniform(0, value);
 	return Vec3b(aa, bb, cc);
 }
+
